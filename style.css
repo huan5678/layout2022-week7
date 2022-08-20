@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Roboto:ital,wght@1,500;1,700;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  width: 100%;
+  height: 100vh;
+  background-image: url('public/images/banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list__dot {
+  position: relative;
+}
+
+.list__dot::before {
+  content: '';
+  position: absolute;
+  background-color: #8c1717;
+  height: 22px;
+  width: 22px;
+  border-radius: 50%;
+  transform: translate(-38px, 33%);
+}
+
