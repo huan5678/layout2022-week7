@@ -16,16 +16,16 @@
           </p>
           <nav class="flex justify-between gap-4">
             <a href="#" class="transition duration-300 hover:scale-105 hover:drop-shadow-[0_5px_8px_rgba(140,23,23,0.5)]">
-              <img src="../images/behance.svg" alt="behance" srcset="" />
+              <img src="./images/behance.svg" alt="behance" srcset="" />
             </a>
             <a href="#" class="transition duration-300 hover:scale-105 hover:drop-shadow-[0_5px_8px_rgba(140,23,23,0.5)]">
-              <img src="../images/facebook.svg" alt="facebook" srcset="" />
+              <img src="./images/facebook.svg" alt="facebook" srcset="" />
             </a>
             <a href="#" class="transition duration-300 hover:scale-105 hover:drop-shadow-[0_5px_8px_rgba(140,23,23,0.5)]">
-              <img src="../images/instagram.svg" alt="instagram" srcset="" />
+              <img src="./images/instagram.svg" alt="instagram" srcset="" />
             </a>
             <a href="#" class="transition duration-300 hover:scale-105 hover:drop-shadow-[0_5px_8px_rgba(140,23,23,0.5)]">
-              <img src="../images/youtube.svg" alt="youtube" srcset="" />
+              <img src="./images/youtube.svg" alt="youtube" srcset="" />
             </a>
           </nav>
         </div>
@@ -33,7 +33,7 @@
       <section class="container flex flex-col items-center pt-14 pb-14">
         <div class="text-2xl font-bold" data-aos="fade-up">
           <h2 class="text-[64px] leading-[84px] mb-10 font-medium italic">About</h2>
-          <img class="mx-auto mb-5" src="../images/photo.png" alt="photo" />
+          <img class="mx-auto mb-5" src="./images/photo.png" alt="photo" />
           <p class="mb-1">Joanne Chen</p>
           <p class="mb-2">1997/10/10</p>
           <p class="pb-6 -mx-3">
@@ -58,13 +58,13 @@
           </p>
           <ul class="flex flex-wrap justify-center gap-x-6 gap-y-10">
           <li class="w-full" data-aos="flip-down" data-aos-duration="1000">
-            <img src="../images/brand_img1.png" class="mx-auto" alt="brand_img1" />
+            <img src="./images/brand_img1.png" class="mx-auto" alt="brand_img1" />
           </li>
           <li class="w-full flex-1" data-aos="flip-left" data-aos-duration="1000">
-            <img src="../images/brand_img2.png" class="mx-auto" alt="brand_img2" />
+            <img src="./images/brand_img2.png" class="mx-auto" alt="brand_img2" />
           </li>
           <li class="w-full flex-1" data-aos="flip-right" data-aos-duration="1000">
-            <img src="../images/brand_img3.png" class="mx-auto" alt="brand_img3" />
+            <img src="./images/brand_img3.png" class="mx-auto" alt="brand_img3" />
           </li>
           </ul>
         </div>
@@ -76,35 +76,35 @@
         </p>
         <ul class="flex flex-wrap gap-x-6 gap-y-12">
           <li data-aos="fade-up" data-aos-duration="800">
-            <img src="../images/work_img1.png" alt="work_img1" class="mb-4" />
+            <img src="./images/work_img1.png" alt="work_img1" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u6D77\u5831\u8A2D\u8A08/2017</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-            <img src="../images/work_img2.png" alt="work_img2" class="mb-4" />
+            <img src="./images/work_img2.png" alt="work_img2" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u6D77\u5831\u8A2D\u8A08/2018</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="1000">
-            <img src="../images/work_img3.png" alt="work_img3" class="mb-4" />
+            <img src="./images/work_img3.png" alt="work_img3" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u6D77\u5831\u8A2D\u8A08/2018</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
-            <img src="../images/work_img4.png" alt="work_img4" class="mb-4" />
+            <img src="./images/work_img4.png" alt="work_img4" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u6982\u5FF5\u651D\u5F71/2018</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-            <img src="../images/work_img5.png" alt="work_img5" class="mb-4" />
+            <img src="./images/work_img5.png" alt="work_img5" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u6982\u5FF5\u651D\u5F71/2018</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
-            <img src="../images/work_img6.png" alt="work_img6" class="mb-4" />
+            <img src="./images/work_img6.png" alt="work_img6" class="mb-4" />
             <h3 class="text-normal font-medium italic">sasa \u9152\u6A19\u8A2D\u8A08/2019</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-            <img src="../images/work_img7.png" alt="work_img7" class="mb-4" />
+            <img src="./images/work_img7.png" alt="work_img7" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u651D\u5F71\u5275\u4F5C/2018</h3>
           </li>
           <li data-aos="fade-up" data-aos-duration="800" data-aos-delay="1000">
-            <img src="../images/work_img8.png" alt="work_img8" class="mb-4" />
+            <img src="./images/work_img8.png" alt="work_img8" class="mb-4" />
             <h3 class="text-normal font-medium italic">\u5B98\u7DB2\u8A2D\u8A08/2020</h3>
           </li>
         </ul>
